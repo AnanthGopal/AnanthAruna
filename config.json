@@ -1,0 +1,172 @@
+{
+  "names": {
+    "sender": "Ananth",
+    "receiver": "Aruna"
+  },
+  "theme": {
+    "primaryColor": "#ff7ab2",
+    "secondaryColor": "#ff4d8d",
+    "accentColor": "#ffc0cb",
+    "fontFamily": "Arial, sans-serif"
+  },
+  "content": {
+    "title": "Will you be my Valentine?",
+    "subtitle": "Choose wisely. (The \"No\" button is... shy.)",
+    "yesButtonText": "YES ❤️",
+    "noButtonText": "NO 💔",
+    "successMessage": "💖 YAYYYYY!!! 💖",
+    "successSubtitle": "That's the best decision you've ever made ❤️😘",
+    "giftsTitle": "💝 Your Valentine Gifts 💝",
+    "giftsSubtitle": "Click here for the Valentine gifts, My Love",
+    "songsTitle": "Our Love Sounds Like This!🎵",
+    "photosTitle": "Every Moment with You!📸",
+    "letterTitle": "To the Girl I Love most!❤️",
+    "prosConsTitle": "Why You Should Choose me as Your Valentine ❤️",
+    "prosConsSubtitle": "Nothing!!!!"
+  },
+  "media": {
+    "mainBearGif": "/src/assets/cute-bear.gif",
+    "musicBearGif": "/src/assets/music-bear.gif",
+    "comfortBearGif": "/src/assets/comfort-bear.gif",
+    "kissBearGif": "/src/assets/kiss-bears.gif",
+    "photoBearGif": "/src/assets/photo-bear.gif",
+    "loveYouBearGif": "/src/assets/love-you-bear.gif",
+    "childGif": "/src/assets/child.gif",
+    "roseBearGif": "/src/assets/rose-bear.gif",
+    "cookBearGif": "/src/assets/cook-bear.gif",
+    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
+    "leftButton": "/src/assets/left-button.png",
+    "rightButton": "/src/assets/right-button.png",
+    "envelopeSeal": "❤️"
+  },
+  "gifts": {
+    "gift1": "/src/assets/gift/gift1.jpg",
+    "gift2": "/src/assets/gift/gift2.jpg", 
+    "gift3": "/src/assets/gift/gift3.jpg"
+  },
+  "couplePhotos": [
+     {
+      "image": "/src/assets/couple_photo/couple_photo_1.jpg",
+      "caption": "With you, even the wildest moments feel safe and full of joy."
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_2.jpg", 
+      "caption": "Wherever life takes us, I just want to stand beside you like this — always."
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_3.jpg",
+      "caption": "You gave me a family, and that is the greatest gift of my life."
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_4.jpg",
+      "caption": "Seeing you love our child like this makes me love you even more."
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_5.jpg",
+      "caption": "Every time I hold you, I’m reminded that you are my home."
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_6.jpg",
+      "caption": "The world looks more beautiful when I see it with you."
+    },
+    {
+      "image": "/src/assets/couple_photo/couple_photo_7.jpg",
+      "caption": "You carried our future, and I will forever respect and love you for that."
+    }
+  ],
+  "prosCons": [
+    {
+      "gif": "/src/assets/cook-bear.gif",
+      "text": "I'll cook your fav food like it's my love language 🍳"
+    },
+    {
+      "gif": "/src/assets/comfort-bear.gif", 
+      "text": "Unlimited comfort and care"
+    },
+    {
+      "gif": "/src/assets/cute-bear.gif",
+      "text": "I listen… like actually listen"
+    },
+    {
+      "gif": "/src/assets/kiss-bears.gif",
+      "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
+    },
+    {
+      "gif": "/src/assets/photo-bear.gif",
+      "text": "Your personal photographer for all the cute moments 📸"
+    },
+    {
+      "gif": "/src/assets/music-bear.gif",
+      "text": "Live singing performances… just for you 🎶😉"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "Adi Penne",
+      "duration": "5:01",
+      "album": "Naam Series",
+      "artist": "",
+      "cover": "/src/assets/album-covers/Adi-Penne.jpg",
+      "audio": "/src/assets/songs/Adi-Penne.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Kangal Neeyae(For our little world)",
+      "duration": "05:40",
+      "album": "Muppozhudhum Un Karpanaigal",
+      "artist": "",
+      "cover": "/src/assets/album-covers/Kangal-Neeyae.jpg",
+      "audio": "/src/assets/songs/Kangal-Neeyae.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Ennai Konjam",
+      "duration": "05:54", 
+      "album": "Kakka Kakka",
+      "artist": "",
+      "cover": "/src/assets/album-covers/Ennai-Konjam.jpg",
+      "audio": "/src/assets/songs/Ennai-Konjam.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Mun Andhi",
+      "duration": "06:14",
+      "album": "7lam Arivu",
+      "artist": "",
+      "cover": "/src/assets/album-covers/Mun-Andhi.jpg",
+      "audio": "/src/assets/songs/Mun-Andhi.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Vaaranam Aayiram",
+      "duration": "06:11",
+      "album": "Nenjukkul Peidhidum",
+      "artist": "",
+      "cover": "/src/assets/album-covers/Nenjukkul-Peidhidum.jpg",
+      "audio": "/src/assets/songs/Nenjukkul-Peidhidum.mp3"
+    }
+  ],
+  "letter": {
+    "title": "My Love,",
+    "content": [
+      "I know sometimes my anger rises before my softness does, and I regret that more than I can explain. It’s never because I love you less — it’s because my heart feels so much and doesn’t always know how to stay calm.",
+      "Loving you has made me aware of my flaws in ways nothing else ever has. It has shown me where I need to grow, where I need to be gentler, and where I need to choose patience over pride.",
+      "You are the reason I want to be better, softer, and stronger at the same time. Even in my worst moments, my love for you has never once shaken. ❤️"
+    ],
+    "signature": "Forever yours,\nAnanth"
+  },
+  "navigation": {
+    "backToLove": "Back to Love",
+    "backToGifts": "Back to Gifts",
+    "backToPhotos": "Back to Photos",
+    "backToSongs": "Back to Songs",
+    "backToLetter": "Back to Letter"
+  },
+  "tooltips": {
+    "previous": "Previous",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause"
+  }
+}
