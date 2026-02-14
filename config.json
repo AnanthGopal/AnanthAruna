@@ -25,78 +25,78 @@
     "prosConsSubtitle": "Nothing!!!!"
   },
   "media": {
-    "mainBearGif": "/src/assets/cute-bear.gif",
-    "musicBearGif": "/src/assets/music-bear.gif",
-    "comfortBearGif": "/src/assets/comfort-bear.gif",
-    "kissBearGif": "/src/assets/kiss-bears.gif",
-    "photoBearGif": "/src/assets/photo-bear.gif",
-    "loveYouBearGif": "/src/assets/love-you-bear.gif",
-    "childGif": "/src/assets/child.gif",
-    "roseBearGif": "/src/assets/rose-bear.gif",
-    "cookBearGif": "/src/assets/cook-bear.gif",
-    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
-    "leftButton": "/src/assets/left-button.png",
-    "rightButton": "/src/assets/right-button.png",
+    "mainBearGif": "/assets/cute-bear.gif",
+    "musicBearGif": "/assets/music-bear.gif",
+    "comfortBearGif": "/assets/comfort-bear.gif",
+    "kissBearGif": "/assets/kiss-bears.gif",
+    "photoBearGif": "/assets/photo-bear.gif",
+    "loveYouBearGif": "/assets/love-you-bear.gif",
+    "childGif": "/assets/child.gif",
+    "roseBearGif": "/assets/rose-bear.gif",
+    "cookBearGif": "/assets/cook-bear.gif",
+    "kissSingleBearGif": "/assets/kiss-bear.gif",
+    "leftButton": "/assets/left-button.png",
+    "rightButton": "/assets/right-button.png",
     "envelopeSeal": "❤️"
   },
   "gifts": {
-    "gift1": "/src/assets/gift/gift1.jpg",
-    "gift2": "/src/assets/gift/gift2.jpg", 
-    "gift3": "/src/assets/gift/gift3.jpg"
+    "gift1": "/assets/gift/gift1.jpg",
+    "gift2": "/assets/gift/gift2.jpg", 
+    "gift3": "/assets/gift/gift3.jpg"
   },
   "couplePhotos": [
      {
-      "image": "/src/assets/couple_photo/couple_photo_1.jpg",
+      "image": "/assets/couple_photo/couple_photo_1.jpg",
       "caption": "With you, even the wildest moments feel safe and full of joy."
     },
     {
-      "image": "/src/assets/couple_photo/couple_photo_2.jpg", 
+      "image": "/assets/couple_photo/couple_photo_2.jpg", 
       "caption": "Wherever life takes us, I just want to stand beside you like this — always."
     },
     {
-      "image": "/src/assets/couple_photo/couple_photo_3.jpg",
+      "image": "/assets/couple_photo/couple_photo_3.jpg",
       "caption": "You gave me a family, and that is the greatest gift of my life."
     },
     {
-      "image": "/src/assets/couple_photo/couple_photo_4.jpg",
+      "image": "/assets/couple_photo/couple_photo_4.jpg",
       "caption": "Seeing you love our child like this makes me love you even more."
     },
     {
-      "image": "/src/assets/couple_photo/couple_photo_5.jpg",
+      "image": "/assets/couple_photo/couple_photo_5.jpg",
       "caption": "Every time I hold you, I’m reminded that you are my home."
     },
     {
-      "image": "/src/assets/couple_photo/couple_photo_6.jpg",
+      "image": "/assets/couple_photo/couple_photo_6.jpg",
       "caption": "The world looks more beautiful when I see it with you."
     },
     {
-      "image": "/src/assets/couple_photo/couple_photo_7.jpg",
+      "image": "/assets/couple_photo/couple_photo_7.jpg",
       "caption": "You carried our future, and I will forever respect and love you for that."
     }
   ],
   "prosCons": [
     {
-      "gif": "/src/assets/cook-bear.gif",
+      "gif": "/assets/cook-bear.gif",
       "text": "I'll cook your fav food like it's my love language 🍳"
     },
     {
-      "gif": "/src/assets/comfort-bear.gif", 
+      "gif": "/assets/comfort-bear.gif", 
       "text": "Unlimited comfort and care"
     },
     {
-      "gif": "/src/assets/cute-bear.gif",
+      "gif": "/assets/cute-bear.gif",
       "text": "I listen… like actually listen"
     },
     {
-      "gif": "/src/assets/kiss-bears.gif",
+      "gif": "/assets/kiss-bears.gif",
       "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
     },
     {
-      "gif": "/src/assets/photo-bear.gif",
+      "gif": "/assets/photo-bear.gif",
       "text": "Your personal photographer for all the cute moments 📸"
     },
     {
-      "gif": "/src/assets/music-bear.gif",
+      "gif": "/assets/music-bear.gif",
       "text": "Live singing performances… just for you 🎶😉"
     }
   ],
@@ -107,8 +107,8 @@
       "duration": "5:01",
       "album": "Naam Series",
       "artist": "",
-      "cover": "/src/assets/album-covers/Adi-Penne.jpg",
-      "audio": "/src/assets/songs/Adi-Penne.mp3"
+      "cover": "/assets/album-covers/Adi-Penne.jpg",
+      "audio": "/assets/songs/Adi-Penne.mp3"
     },
     {
       "id": 3,
@@ -116,8 +116,8 @@
       "duration": "05:40",
       "album": "Muppozhudhum Un Karpanaigal",
       "artist": "",
-      "cover": "/src/assets/album-covers/Kangal-Neeyae.jpg",
-      "audio": "/src/assets/songs/Kangal-Neeyae.mp3"
+      "cover": "/assets/album-covers/Kangal-Neeyae.jpg",
+      "audio": "/assets/songs/Kangal-Neeyae.mp3"
     },
     {
       "id": 3,
@@ -125,8 +125,8 @@
       "duration": "05:54", 
       "album": "Kakka Kakka",
       "artist": "",
-      "cover": "/src/assets/album-covers/Ennai-Konjam.jpg",
-      "audio": "/src/assets/songs/Ennai-Konjam.mp3"
+      "cover": "/assets/album-covers/Ennai-Konjam.jpg",
+      "audio": "/assets/songs/Ennai-Konjam.mp3"
     },
     {
       "id": 4,
@@ -134,8 +134,8 @@
       "duration": "06:14",
       "album": "7lam Arivu",
       "artist": "",
-      "cover": "/src/assets/album-covers/Mun-Andhi.jpg",
-      "audio": "/src/assets/songs/Mun-Andhi.mp3"
+      "cover": "/assets/album-covers/Mun-Andhi.jpg",
+      "audio": "/assets/songs/Mun-Andhi.mp3"
     },
     {
       "id": 5,
@@ -143,8 +143,8 @@
       "duration": "06:11",
       "album": "Nenjukkul Peidhidum",
       "artist": "",
-      "cover": "/src/assets/album-covers/Nenjukkul-Peidhidum.jpg",
-      "audio": "/src/assets/songs/Nenjukkul-Peidhidum.mp3"
+      "cover": "/assets/album-covers/Nenjukkul-Peidhidum.jpg",
+      "audio": "/assets/songs/Nenjukkul-Peidhidum.mp3"
     }
   ],
   "letter": {
