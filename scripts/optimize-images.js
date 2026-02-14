@@ -31,7 +31,7 @@ async function optimizeImage(inputPath, outputPath, format) {
       .toFormat(format, outputOptions)
       .toFile(outputPath);
     
-    console.log(`✓ Optimized ${path.basename(inputPath)} to ${format}`);
+    console.log(`✓ Optimized ${path.basename(inputPath)} to ${format} ${outputPath}`);
   } catch (error) {
     console.error(`✗ Failed to optimize ${path.basename(inputPath)} to ${format}:`, error.message);
   }
@@ -44,6 +44,7 @@ async function processDirectory(dir) {
     const fullPath = path.join(dir, item.name);
     
     if (item.isDirectory()) {
+      console.log(fullPath)
       await processDirectory(fullPath);
     } else if (item.isFile() && /\.(jpg|jpeg|png)$/i.test(item.name)) {
       const baseName = path.basename(item.name, path.extname(item.name));

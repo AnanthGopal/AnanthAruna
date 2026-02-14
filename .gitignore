@@ -1,1 +1,66 @@
-"node_modules/" 
+# =========================
+# Node
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+
+# =========================
+# Angular build output
+# =========================
+dist/
+.tmp/
+out-tsc/
+build/
+.cache/
+
+# =========================
+# Angular environment files (optional – if sensitive)
+# =========================
+src/environments/*.local.ts
+
+# =========================
+# IDEs & Editors
+# =========================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+logs
+*.log
+
+# =========================
+# Coverage reports
+# =========================
+coverage/
+
+# =========================
+# Testing
+# =========================
+karma.conf.js
+.jasmine/
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.local
+.env.production
+.env.development
